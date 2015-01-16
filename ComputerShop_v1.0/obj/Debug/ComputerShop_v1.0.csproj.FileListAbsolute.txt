@@ -1,0 +1,29 @@
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\bin\Debug\ComputerShop_v1.0.exe.config
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\bin\Debug\ComputerShop_v1.0.exe
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\bin\Debug\ComputerShop_v1.0.pdb
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.csprojResolveAssemblyReference.cache
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.ComShopMM.resources
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.Properties.Resources.resources
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.csproj.GenerateResource.Cache
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.exe
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.pdb
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormAdminlogin.resources
+C:\Users\imran\AppData\Local\Temporary Projects\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormAdminPanel.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\bin\Debug\ComputerShop_v1.0.exe.config
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.exe
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.pdb
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\bin\Debug\ComputerShop_v1.0.exe
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\bin\Debug\ComputerShop_v1.0.pdb
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.ComShopMM.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormAdminlogin.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.Properties.Resources.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1.0.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormOperatorPanel.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormSell.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormPreview.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormShowProduct.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.MDIAdmin.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormPartsInput.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormProductHistory.resources
+D:\Visual Studio Projects\ComputerShop_v1.0\ComputerShop_v1.0\obj\Debug\ComputerShop_v1._0.FormSoldHistory.resources
